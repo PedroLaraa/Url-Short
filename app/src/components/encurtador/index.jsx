@@ -39,7 +39,7 @@ const Encurtador = () => {
         document.getElementById('txtToCopy').select();
         document.execCommand("copy");
 
-        setCopy(true)
+        setCopy(true)                                                                                                                                                       
 
     }
 
