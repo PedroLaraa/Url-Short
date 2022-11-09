@@ -3,7 +3,9 @@ import Encurtador from './components/encurtador';
 
 function App() {
   return (
-    <Encurtador />
+    <div className='App'>
+      <Encurtador />
+    </div>
   );
 };
 
