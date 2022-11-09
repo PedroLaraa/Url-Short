@@ -44,7 +44,7 @@ const Encurtador = () => {
     }
 
     return (
-        <div className="d-flex align-items-center vh-100 container-input">
+        <div id="Home" className="d-flex align-items-center vh-100 container-input">
             <div className="row justify-content-center w-100">
                 <div className="col-md-6 input-link p-4">
                     <InputLink
